@@ -1,4 +1,4 @@
-# HackerRank-NodeJS-Basic
+# HackerRank NodeJS Basic
 Hacker Rank NodeJS (Basic) Src Uji Certificate
 
 Certificate :
